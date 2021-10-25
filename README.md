@@ -1,6 +1,7 @@
 ## Ola eu sou Matheus, profissional de programação e tecnologia!
+
 - 💻 Atualmente trabalho como Assitente de Suporte
-- 👨‍🎓 Estudando Analise e Desenvolvimento de Sistemas
+- 👨‍🎓 Estudando Análise e Desenvolvimento de Sistemas
 
 -<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
