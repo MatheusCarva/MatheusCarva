@@ -1,6 +1,6 @@
 ## Ola eu sou Matheus, profissional de programação e tecnologia!
 
-- 💻 Atualmente trabalho como Assitente de Suporte
+- 💻 Atualmente trabalhando como Assitente de Suporte
 - 👨‍🎓 Estudando Análise e Desenvolvimento de Sistemas
 
 <div align="center">
