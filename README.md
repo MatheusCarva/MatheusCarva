@@ -4,7 +4,7 @@
 - 👨‍🎓 Estudando Análise e Desenvolvimento de Sistemas
 
 <div align="center">
-  <img eight="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCarva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCarva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
 
